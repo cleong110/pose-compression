@@ -1,0 +1,14 @@
+name: my_environment
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10  # Adjust Python version as needed
+  - pip
+  - pip:
+      - pose-format
+      - vidgear
+      - pyzstd
+      - opencv-python
+      - mediapipe
+      - tqdm
+      - tabulate
