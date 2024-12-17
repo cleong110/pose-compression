@@ -18,3 +18,5 @@ Trajectory compression algorithms like Douglas-Peucker, SQUISH-E, and so forth
 ### Topological algorithms like Mapper that work on point clouds
 * https://mapperinteractive.github.io/
 * https://www.quantmetry.com/blog/topological-data-analysis-with-mapper/
+* https://giotto-ai.github.io/gtda-docs/latest/notebooks/mapper_quickstart.html
+
