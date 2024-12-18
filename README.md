@@ -1,4 +1,5 @@
 # pose-compression
+![File size vs frame count](pose_compression_file_size_vs_frames.png)
 Can we improve context window and/or reduce computation/hard drive space for pose-based Sign Language Processing by leveraging compression schemes? 
 
 I'm curious to investigate whether we can compress [.pose files](https://pose-format.readthedocs.io/), and then do our sign-language processing _on those compressed files_. Figuring out how to compress them would also be useful just for saving hard drive space - a typical .pose is much larger than the .mp4 it came from. 
