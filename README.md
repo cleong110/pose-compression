@@ -22,7 +22,7 @@ Trajectory compression algorithms like Douglas-Peucker, SQUISH-E, and so forth
 * https://giotto-ai.github.io/gtda-docs/latest/notebooks/mapper_quickstart.html
 
 ### Adaptive Resonance Theory?
-I'm told that ART networks can be used for clustering and unsupervised learning, as well as [compression](https://www.spiedigitallibrary.org/journals/Journal-of-Electronic-Imaging/volume-14/issue-2/023009/Adaptive-technique-for-image-compression-based-on-vector-quantization-using/10.1117/1.1901678.short).
+I'm told that ART networks can be used for clustering and unsupervised learning, as well as things like [image compression](https://www.spiedigitallibrary.org/journals/Journal-of-Electronic-Imaging/volume-14/issue-2/023009/Adaptive-technique-for-image-compression-based-on-vector-quantization-using/10.1117/1.1901678.short).
 
 Some code: 
 * https://github.com/NiklasMelton/AdaptiveResonanceLib has a library, pip installable, with some simple examples. 
